@@ -22,4 +22,3 @@
 
    **is_explicit** - whether the song contains explicit lyrics
    
-3. [League of Legends Champs(Popularity, WinRate, KDA)](https://www.kaggle.com/datasets/delfinaoliva/league-of-legends-champspopularity-winrate-kda/data)
